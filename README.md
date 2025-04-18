@@ -1,2 +1,1 @@
-# pizzaxpainter.github.io
-Portfolio website
+Hi! I'm Kripashree👋
