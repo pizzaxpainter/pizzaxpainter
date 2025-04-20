@@ -47,7 +47,7 @@ Currently building cool things as a **Full Stack Developer**.
 #### 💬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kripashree-s-27b65a20a/)
 
-#### 📊 I love some stats
+#### I love some stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizzaxpainter&layout=compact&theme=tokyonight)
 
