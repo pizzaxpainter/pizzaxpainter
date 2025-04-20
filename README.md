@@ -3,8 +3,9 @@
 ### I blend design and code to build meaningful digital experiences. 
 ### I love pixel art and stickers. 
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1kbGdqcTllc2sxdm1ob2ZkejFzMmQ0MWlkdzRwdHk4dHRvY2x3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4XXo8A7CIW1lZGgdhm/giphy.gif" width="400" />
+
 Currently building cool things as a **Full Stack Developer**. 
-![fun gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1kbGdqcTllc2sxdm1ob2ZkejFzMmQ0MWlkdzRwdHk4dHRvY2x3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4XXo8A7CIW1lZGgdhm/giphy.gif)
 
 ## Let's break that down...
 
@@ -26,16 +27,14 @@ Currently building cool things as a **Full Stack Developer**.
 ![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 
 ## 📌 What I’m up to now
-- 🔭 Building: Weather Wise 
-- 📚 Exploring: Swift, React Native, building games
-- 🎧 Vibing to: [![On loop!!](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS?si=820e97d053054687)]
+- 🔭 Building: Weather Wise, AI Agents  
+- 📚 Exploring: Swift, React Native, Unity
 
 ## 💬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kripashree-s-27b65a20a/)
 
 ## 📊 I love some stats
 
-![Kripashree's GitHub Stats](https://github-readme-stats.vercel.app/api?pizzaxpainter&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizzaxpainter&layout=compact&theme=tokyonight)
 
 
