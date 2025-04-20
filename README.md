@@ -18,7 +18,7 @@ Currently building cool things as a **Full Stack Developer**.
 
 ### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -38,6 +38,5 @@ Currently building cool things as a **Full Stack Developer**.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizzaxpainter&layout=compact&theme=tokyonight)
 
 
----
 > _“Creativity is intelligence having fun.” – Albert Einstein_
 
