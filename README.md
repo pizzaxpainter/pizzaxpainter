@@ -1,11 +1,10 @@
-# Hi there, I'm Kripashree 👋
+# Hi there, I'm Kripashree 👋👩🏻‍💻
 
-### Your friendly neighborhood creative 🧠✨  
+### ✨ Your friendly neighborhood creative ✨  
 I love solving problems with elegant and creative solutions.  
 Currently building cool things as a **Full Stack Developer**.
 
-
-## 🧩 Let's break that down...
+## Let's break that down...
 
 ### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,12 +23,9 @@ Currently building cool things as a **Full Stack Developer**.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 
-## 🌱 Currently Learning
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ## 💬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kripashree-s-27b65a20a/)
 
 ---
 > _“Creativity is intelligence having fun.” – Albert Einstein_
