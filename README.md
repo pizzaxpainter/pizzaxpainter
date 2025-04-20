@@ -9,7 +9,7 @@ Currently building cool things as a **Full Stack Developer**.
 
 ## Let's break that down...
 
-### 💻 Frontend
+#### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,14 +21,14 @@ Currently building cool things as a **Full Stack Developer**.
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
   
-### 🔧 Backend
+#### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
-### 🎨 Design
+#### 🎨 Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 
@@ -40,15 +40,15 @@ Currently building cool things as a **Full Stack Developer**.
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-## 📌 What I’m currently exploring
+#### 📌 What I’m currently exploring
 - 📚 Development: Swift, React Native
 - 🤖 Generative AI, AI Agents
 - 🎯 DesignOps 
 
-## 💬 Let's Connect!
+#### 💬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kripashree-s-27b65a20a/)
 
-## 📊 I love some stats
+#### 📊 I love some stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizzaxpainter&layout=compact&theme=tokyonight)
 
