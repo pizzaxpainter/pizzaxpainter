@@ -15,7 +15,7 @@ Currently building cool things as a **Full Stack Developer**.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+  
 ### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white)
