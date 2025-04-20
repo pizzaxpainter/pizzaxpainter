@@ -1,7 +1,6 @@
 # Hi there, I'm Kripashree 👋👩🏻‍💻
 
 ### I blend design and code to build meaningful digital experiences. 
-### I love pixel art and stickers. 
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1kbGdqcTllc2sxdm1ob2ZkejFzMmQ0MWlkdzRwdHk4dHRvY2x3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4XXo8A7CIW1lZGgdhm/giphy.gif" width="400" />
 
