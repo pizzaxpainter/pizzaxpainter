@@ -3,7 +3,8 @@
 ### I blend design and code to build meaningful digital experiences. 
 ### I love pixel art and stickers. 
 
-Currently building cool things as a **Full Stack Developer**. ![fun gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1kbGdqcTllc2sxdm1ob2ZkejFzMmQ0MWlkdzRwdHk4dHRvY2x3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4XXo8A7CIW1lZGgdhm/giphy.gif)
+Currently building cool things as a **Full Stack Developer**. 
+![fun gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1kbGdqcTllc2sxdm1ob2ZkejFzMmQ0MWlkdzRwdHk4dHRvY2x3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4XXo8A7CIW1lZGgdhm/giphy.gif)
 
 ## Let's break that down...
 
@@ -15,7 +16,7 @@ Currently building cool things as a **Full Stack Developer**. ![fun gif](https:/
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -27,15 +28,15 @@ Currently building cool things as a **Full Stack Developer**. ![fun gif](https:/
 ## 📌 What I’m up to now
 - 🔭 Building: Weather Wise 
 - 📚 Exploring: Swift, React Native, building games
-- 🎧 Vibing to: ![On loop!!](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS?si=820e97d053054687)
+- 🎧 Vibing to: [![On loop!!](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS?si=820e97d053054687)]
 
 ## 💬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kripashree-s-27b65a20a/)
 
 ## 📊 I love some stats
 
-![Kripashree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Kripashree's GitHub Stats](https://github-readme-stats.vercel.app/api?pizzaxpainter&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizzaxpainter&layout=compact&theme=tokyonight)
 
 
 ---
