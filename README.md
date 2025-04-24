@@ -1,4 +1,4 @@
-## Hi there, I'm Kripashree 👋👩🏻‍💻
+## Hi there, I'm Kripashree 👋
 
 I blend design and code to build meaningful digital experiences. 
 
@@ -43,10 +43,9 @@ Let's break that down...
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### 📌 What I’m currently exploring
+#### 📌 I’m currently exploring
 - Development: Swift, React Native
 - Generative AI, AI Agents
-- DesignOps 
 
 #### Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kripashree-s-27b65a20a/)
