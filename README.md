@@ -41,7 +41,7 @@ Let's break that down...
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/Hugging_Face-F7DF1E?style=for-the-badge&logo=hugging-face&logoColor=black)
 
 #### 📌 I’m currently exploring
 - Development: Swift, React Native
